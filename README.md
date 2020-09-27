@@ -1,9 +1,13 @@
 # react-native-lightbox
 
+## Overview
+
+This is a fork of the original https://github.com/oblador/react-native-lightbox with the changes from PR 132 and changes to LightboxOverlay.js to satisfy the second argument required in options.  
+
 ## Installation
 
 ```
-yarn add react-native-lightbox
+npm install joebarrero/react-native-lightbox
 ```
 
 ## Usage
